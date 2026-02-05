@@ -29,8 +29,8 @@ Display the original and all transformed images with appropriate titles using ma
 
 ## Program:
 
-## Developed By: ROHITH J
-## Register Number: 212224230232
+## Developed By: dhanussh Elango
+## Register Number: 212224040069
 PYTHON
 ```
 import cv2
